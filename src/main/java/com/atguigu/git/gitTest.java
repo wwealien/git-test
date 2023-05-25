@@ -5,5 +5,8 @@ public class gitTest {
         System.out.println("第一条代码");
         System.out.println("第二条代码");
         System.out.println("第三条代码");
+        System.out.println("hot-fix第一条代码");
+        System.out.println("hot-fix第二条代码");
+        System.out.println("hot-fix第三条代码");
     }
 }
