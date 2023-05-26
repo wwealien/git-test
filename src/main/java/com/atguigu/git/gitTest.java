@@ -10,5 +10,6 @@ public class gitTest {
         System.out.println("hot-fix第三条代码");
         System.out.println("hot-fix第四条代码");
         System.out.println("hot-fix第五条代码");
+        System.out.println("又增加了一行代码");
     }
 }
