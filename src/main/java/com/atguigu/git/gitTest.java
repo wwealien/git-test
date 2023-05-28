@@ -11,5 +11,8 @@ public class gitTest {
         System.out.println("hot-fix第四条代码");
         System.out.println("hot-fix第五条代码");
         System.out.println("这是hot-fix新加的代码");
+        int i=1;
+        int j=2;
+        System.out.println(i+j);
     }
 }
